@@ -1,0 +1,6 @@
+---
+hostname: 127.0.0.1
+port: '2202'
+username: vagrant
+ssh_key: "/home/hiteshri/chef-repo/cookbooks/cb_mysql/.kitchen/kitchen-vagrant/kitchen-cb_mysql-default-ubuntu-1404/.vagrant/machines/default/virtualbox/private_key"
+last_action: create

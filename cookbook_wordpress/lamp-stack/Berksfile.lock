@@ -1,0 +1,18 @@
+dependencies
+  lamp-stack
+    path .
+    metadata true
+  mysql 6.0
+
+Graph
+  lamp-stack 0.1
+    mysql 6.0
+  mysql 6.0
+    smf
+    yum-mysql-community
+  rbac
+  smf 2.2
+    rbac
+  yum
+  yum-mysql-community
+yum

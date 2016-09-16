@@ -1,0 +1,5 @@
+Source 'https://supermarket.chef.io'
+
+metadata
+
+cookbook 'mysql', '~>6.00.0'
